@@ -1,0 +1,40 @@
+Title: How are you two related? Corpus-based Learning of Lexical Semantic Relations
+
+Author: Vered Shwartz
+
+Abstract: 
+
+Recognizing lexical semantic relations between words is an essential
+component in semantic applications such as question answering and
+recognizing textual entailment. In order to overcome lexical
+variability, such systems traditionally relied heavily on lexical
+resources such as WordNet.
+
+In the main part of the talk I will discuss our work on automatic
+detection of lexical semantic relations from free text. This task
+stems from the limited coverage of lexical resources, both in terms of
+missing lexical items (proper names, new words) and missing relations
+between existing items. Typical approaches to address this task are
+either distributional, i.e. based on the word embeddings of the two
+target words, or path-based (pattern-based) approach, based on the
+words co-occurrences in the corpus. I will present our integrated
+path-based and distributional method for recognizing lexical semantic
+relations, which is currently the state-of-the-art in this task.
+
+In the second part, I will raise some questions about the interplay of
+WordNet and word embeddings: is external lexical knowledge obsolete in
+the deep learning era? And if it isn't, then how can lexical knowledge
+from WordNet and other resources be incorporated into neural models
+for semantic applications?
+
+
+Bio: 
+
+Vered is a Computer Science PhD student in Natural Language Processing
+lab at Bar-Ilan University, under the supervision of Prof. Ido
+Dagan. Her research focuses on lexical semantics. Her recent work
+involved an integrated distributional and path-based method for
+recognizing lexical semantic relations, and an
+automatically-constructed resource of predicate paraphrases. She
+completed her B.Sc. (2013) and M.Sc. (2015) in Computer Science in
+Bar-Ilan University.

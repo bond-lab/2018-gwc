@@ -1,0 +1,34 @@
+Title: Inducing Interpretable Word Senses for WSD and Enrichment of Lexical Resources
+
+Abstract: In this talk, we will discuss induction of sparse and dense
+word sense representations using graph-based approaches and
+distributional models. Induced senses are represented by a vector, but
+also a set of hypernyms, images, and usage examples, derived in an
+unsupervised and knowledge-free manner, which ensure interpretability
+of the discovered senses by humans. We showcase the usage of the
+induced representations for the tasks of word sense disambiguation and
+enrichment of lexical resources, such as WordNet.
+
+Bio: Alexander Panchenko is a Postdoctoral Researcher in the Language
+Technology Group at the University of Hamburg, Germany. His background
+is almost a decade of research and developments in the field of
+NLP. He worked on a range of problems and tasks, such as semantic
+relatedness, word sense disambiguation, and induction, sentiment
+analysis, gender detection, taxonomy induction, etc. Prior to the
+appointment in Hamburg, Alexander was a a Postdoctoral Researcher at
+TU Darmstadt and Research Engineer at a start-up focusing on
+large-scale NLP applied to social networks. He received his PhD in
+Computational Linguistics from the Universite catholique de Louvain,
+Belgium in 2013 and an Engineering degree in Computer Science from
+Moscow State Technical University in 2008. Alexander is interested in
+representation learning, distributional semantics and word sense
+induction and disambiguation. He has (co-)authored more than 40
+peer-reviewed research publications, including papers in top-tier
+conference proceedings, such as ACL, EMNLP, EACL, and ECIR. He
+received (with co-authors) the best paper award at the `Representation
+Learning for NLP' (RepL4NLP) workshop at ACL 2016. He co-organised two
+shared tasks on semantic relatedness and word sense induction
+evaluation for the Russian language (RUSSE'15 and RUSSE'18). He is a
+founding co-editor of a data science conference on Analysis of Social
+Networks, Images, and Texts (AIST) with the proceedings published in
+Springer LNCS series.
